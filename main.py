@@ -3,7 +3,7 @@ import requests
 from datetime import datetime, timezone
 import colorama
 
-# Initialize colorama
+
 colorama.init()
 
 clear_command = "cls" if os.name == "nt" else "clear"
