@@ -84,4 +84,3 @@ Banner Color   : #ff0000
 
 ---
 
-Let me know if you'd like to adjust or add anything!
